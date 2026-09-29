@@ -387,9 +387,6 @@ Those provide access to your Plex setup.
 **Made with 💜 for better movie nights.**
 
 **© 2026 Shoko’s PlexBridge. All rights reserved.**
-
-Permission is granted to share the original, unmodified distribution and this guide for personal use, retaining this notice.
-
 An independent community project. Not affiliated with or endorsed by Plex, Stremio, Nuvio, or Docker. Their names and trademarks belong to their respective owners.
 
 ### 🍿 Grab a snack. Pick a movie. Let Shoko bridge the gap.
