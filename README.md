@@ -358,22 +358,6 @@ If you lost it, complete setup again. A new configuration creates a new private 
 
 ---
 
-## 📦 Sharing with friends
-
-Share the **original ZIP and these instructions**.
-
-Each person connects their own Plex server and generates their own installation link.
-
-**Do not share your personal:**
-
-- `config.json`
-- Plex token
-- Private installation or manifest link
-
-Those provide access to your Plex setup.
-
----
-
 ## 🏠 A few things to know
 
 - This guide covers playback on your **home network**. Watching away from home needs additional setup.
